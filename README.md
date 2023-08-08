@@ -9,7 +9,7 @@ The goal of this project is to analyze data on the wind turbine industry to asse
 <h2>Tools Used</h2>
 
 - <b>SQL</b> 
-- <b>Excel</b>Tableau
+- <b>Excel</b>
 - <b>Tableau</b>
 
 <h2>Analysis</h2>
